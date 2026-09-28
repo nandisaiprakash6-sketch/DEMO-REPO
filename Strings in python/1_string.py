@@ -1,0 +1,20 @@
+a = "sai prakash"
+print(a)
+print(a[0])
+print(a[1])
+print(a[2])
+print(a[3])
+print(a[4])
+print(a[5])
+print(a[6])
+print(a[7])
+# space also counted in index .
+print(a[-1])
+print(a[-2])
+print(a[-3])
+print(a[-4])
+print(a[-5])
+print(a[-6])
+print(a[-7])
+print(a[-8])
+# IN REVERSING  we use - sign for index but this time it starts from -1 {indiacates last element}

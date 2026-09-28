@@ -1,0 +1,7 @@
+print("HELLO SAI PRAKASH NANDI")
+print("mangoes")
+a=5
+if(a>3):
+    print("large number")
+else:
+    print("smaller")

@@ -1,0 +1,1 @@
+print("king is in the palace", sep=" "  ,'bull')
